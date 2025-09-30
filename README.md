@@ -1,7 +1,7 @@
 # DualLinExpVCA
 4HP Dual Linear/Exponential VCA module
 
-![module_01](/_data/module_01.jpg)  
+![module_01](/_data/module01.jpg)  
 
 ## Specification
 
@@ -18,11 +18,11 @@
 
 ## Images
 
-![module_02](/_data/module_02.jpg)  
+![module_02](/_data/module02.jpg)  
 
 ## Documents
 
-![schematic](/_manual/img/schematic01.png)  
-![schematic](/_manual/img/schematic02.png)  
+![schematic](/manual/img/schematic01.png)  
+![schematic](/manual/img/schematic02.png)  
 
-[Operation Manual (Japanese)](https://github.com/marksard/)
+[Operation Manual (Japanese)](https://github.com/marksard/DualLinExpVCA/blob/main/manual/DualLinExpVCA%20Operation%20Manual.md)
