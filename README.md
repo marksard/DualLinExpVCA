@@ -13,7 +13,7 @@
 | CV1, CV2 | 0~10V<br>Impedance:100kΩ |
 | IN1, IN2 | ±10V<br>Impedance:100kΩ (DC coupled) |
 | OUT1, OUT2 | ±10V<br>Impedance:1kΩ |
-| IN1 LEVEL | ~8V (Can be adjusting) |
+| IN1 LEVEL |  |
 | Lin/Exp Switch | CV curve switch Linear or Exponential per ch | 
 
 ## Images
