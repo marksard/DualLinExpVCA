@@ -113,7 +113,7 @@ Dual Lin/Exp VCAはSSI2164チップを搭載したVoltage Contolled Amplifierで
 | CV  | 2系統（CV1, CV2）<br>0～10V<br>入力インピーダンス：100kΩ |
 | 入力 | 2系統（IN1, IN2）<br>±10V<br>入力インピーダンス：100kΩ |
 | 出力 | 2系統（OUT1, OUT2）<br>±10V<br>出力インピーダンス：1kΩ |
-| 操作子 | IN1レベル調整　～8V（トリマで調整可）<br>CV1,CV2調整、リニア/指数カーブ切り替えスイッチ |
+| 操作子 | IN1レベル調整（増幅調整可）<br>CV1,CV2調整、リニア/指数カーブ切り替えスイッチ |
 
 ※出力電圧・出力電流、消費電流については出力へ接続した負荷により変動する場合があります。  
 
@@ -180,3 +180,4 @@ Dual Lin/Exp VCAはSSI2164チップを搭載したVoltage Contolled Amplifierで
 <footer style="text-align:center; font-size:12px; margin-top:50px;">
 Dual Lin/Exp VCA Operation Manual  © 2025 by marksard.
 </footer>
+
